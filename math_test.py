@@ -8,4 +8,4 @@ def test_hello():
 assert 2 + 2 == 4
 assert 2 + 3 == 5
 assert 2 + 4 == 6
-assert 4 +  4 == 8
+assert 4 + 4 == 8
